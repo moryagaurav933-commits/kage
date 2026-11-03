@@ -1,0 +1,22 @@
+{
+  "name": "kage",
+  "version": "1.0.0",
+  "description": "Kage — Where stillness reveals the unseen. A five-chapter night walk through a Kyoto mountain temple rendered live in Three.js and WebGL.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "threejs",
+    "webgl",
+    "landing-page",
+    "creative-development",
+    "smooth-scrolling",
+    "parallax",
+    "web-audio",
+    "interactive"
+  ],
+  "author": "moryagaurav933-commits",
+  "license": "MIT"
+}
